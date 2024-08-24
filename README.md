@@ -18,7 +18,7 @@ QRP transceiver with TNC using BK4802P
 *hardware only*
 https://github.com/jk1mly/pcb-qrp-tnc
 
-ハムフェア2023で頒布　主な対象：FX.25の電波を出してみたいと思った人
+ハムフェア2023,24で頒布　主な対象：FX.25の電波を出してみたいと思った人
 
 ### M5Atom TNC
 FX.25 TNC using M5 Atom module
@@ -26,7 +26,7 @@ FX.25 TNC using M5 Atom module
 *hardware only*
 https://github.com/jk1mly/pcb-atom-tnc
 
-ハムフェア2023で頒布　主な対象：ASK1200bpsのTNCを使いたいと思った人
+ハムフェア2023,24で頒布　主な対象：ASK1200bpsのTNCを使いたいと思った人
 
 ### 4Band FM TRCV
 4 Band QRP transceiver using BK4802P
@@ -37,7 +37,7 @@ https://github.com/jk1mly/pcb-qrp-fm
 *software*
 https://github.com/jk1mly/fm-trcv
 
-ハムフェア2023で頒布　主な対象：BK4802Pを使ってみたいと思った人
+ハムフェア2023,24で頒布　主な対象：BK4802Pを使ってみたいと思った人
 
 ### 1bit CPU
 Single-Bit CPU experiment using MC14500B
